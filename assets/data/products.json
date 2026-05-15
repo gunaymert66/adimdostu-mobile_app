@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Somonlu Mama",
+    "category": "Kedi • Mama",
+    "price": 450,
+    "imageUrl": "assets/images/somonlu_mama.png",
+    "description": "Yetişkin kediler için omega 3 destekli, tüy yumağı önleyici tam ve dengeli beslenme sağlayan premium kuru mama."
+  },
+  {
+    "id": "2",
+    "name": "Çiğneme Kemiği",
+    "category": "Köpek • Oyuncak",
+    "price": 120,
+    "imageUrl": "assets/images/cigneme_kemiği.png",
+    "description": "Diş sağlığını destekleyen, toksik madde içermeyen uzun ömürlü çiğneme oyuncağı."
+  }
+  ,
+  {
+    "id": "3",
+    "name": "Otomatik Su Pınarı",
+    "category": "Kedi & Köpek • Aksesuar",
+    "price": 850.0,
+    "imageUrl": "assets/images/product3.png",
+    "description": "Aktif karbon filtreli, sessiz motorlu 2 litrelik otomatik su şelalesi."
+  },
+  {
+    "id": "4",
+    "name": "Tüylü Kedi Oltası",
+    "category": "Kedi • Oyuncak",
+    "price": 85.0,
+    "imageUrl": "assets/images/product4.png",
+    "description": "Kedinizin avcılık içgüdülerini harekete geçiren interaktif oyuncak."
+  },
+  {
+    "id": "5",
+    "name": "Tırmalama Tahtası",
+    "category": "Kedi • Aksesuar",
+    "price": 320.0,
+    "imageUrl": "assets/images/product5.png",
+    "description": "Kedinizin tırnak sağlığını koruyan, dayanıklı sisal ipten üretilmiş kule tipi tırmalama tahtası."
+  },
+  {
+    "id": "6",
+    "name": "Ortopedik Köpek Yatağı",
+    "category": "Köpek • Yatak",
+    "price": 1250.0,
+    "imageUrl": "assets/images/product6.png",
+    "description": "Büyük ırk köpekler için özel tasarlanmış, eklem ağrılarını hafifleten hafızalı sünger (memory foam) yatak."
+  }
+  
+]
