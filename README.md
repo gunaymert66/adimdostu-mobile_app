@@ -1,6 +1,16 @@
-# Adim Dostu - Pet Shop Mobile App
+# Adım Dostu - Pet Shop Mobile App
 
 A Flutter pet shop application featuring a user-friendly interface and dynamic data structure, developed as part of the Software Persona internship program.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" alt="Home Screen" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/cart.png" alt="Cart Screen" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/profile.png" alt="Profile Screen" width="250"/>
+</div>
 
 ## 🚀 Features
 - **Dynamic Data:** Product information is fetched asynchronously from the `assets/data/products.json` file.
@@ -20,4 +30,4 @@ A Flutter pet shop application featuring a user-friendly interface and dynamic d
 - `assets/data/`: Local database (`products.json`)
 
 ---
-Developed by: **İbrahim Mert Günay** - Software Persona Intern
+Developed by: **Mert** - Software Persona Intern
