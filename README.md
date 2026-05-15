@@ -1,17 +1,23 @@
-# adimdostu
+# Adim Dostu - Pet Shop Mobile App
 
-A new Flutter project.
+A Flutter pet shop application featuring a user-friendly interface and dynamic data structure, developed as part of the Software Persona internship program.
 
-## Getting Started
+## 🚀 Features
+- **Dynamic Data:** Product information is fetched asynchronously from the `assets/data/products.json` file.
+- **Modern UI/UX:** Built with custom color palettes and modern components (Custom Widgets), staying true to the original Figma design.
+- **Cart Management:** Product addition, removal, and total price calculation features are fully functional.
+- **Bottom Navigation:** Smooth transitions between Home, Cart, and Profile tabs.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- **Framework:** Flutter
+- **Language:** Dart
+- **Data Format:** JSON (Local Asset Bundle)
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
+- `lib/models/`: Data models
+- `lib/screens/`: Application screens
+- `lib/widgets/`: Reusable components
+- `assets/data/`: Local database (`products.json`)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Developed by: **İbrahim Mert Günay** - Software Persona Intern
