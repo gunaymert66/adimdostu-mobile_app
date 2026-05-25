@@ -19,8 +19,8 @@ A Flutter pet shop application featuring a user-friendly interface and dynamic d
 - **Bottom Navigation:** Smooth transitions between Home, Cart, and Profile tabs.
 
 ## 🛠️ Technologies Used
-- **Framework:** Flutter
-- **Language:** Dart
+- **Framework:** Flutter (v3.41.9)
+- **Language:** Dart (v3.11.5)
 - **Data Format:** JSON (Local Asset Bundle)
 
 ## 📂 Project Structure
